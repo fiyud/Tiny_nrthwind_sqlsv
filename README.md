@@ -1,4 +1,8 @@
+ERD Table
+![405464617_1026771768615431_6136309140838573307_n](https://github.com/fiyud/Tiny_nrthwind_sqlsv/assets/124371243/f05c1cb3-1ab9-4cc5-8e60-6ac4b2e52010)
+
 Business questions and SQL solutions
+
 Business question 1: How to know how many companies supply products to Shopee?
 SQL solution:
 
